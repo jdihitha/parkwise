@@ -1,0 +1,6 @@
+{
+  "name": "ParkWise",
+  "description": "Smart parking management web application with direct Firebase authentication and Firestore integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
